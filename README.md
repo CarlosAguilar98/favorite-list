@@ -41,7 +41,7 @@ Para hacer que tu app sea responsiva y se vea bien en diferentes tamaños de pan
 ## Aspecto y Experiencia Coherentes
 Para asegurar una apariencia y experiencia de usuario coherentes, utiliza temas globales y estilos consistentes.
 
-##Como empezar
+## Como empezar
 Para comenzar con este proyecto, sigue estos pasos:
 
  1: Clona el repositorio:
