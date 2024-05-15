@@ -28,19 +28,20 @@ Flutter es un framework de UI creado por Google para construir aplicaciones nati
 Conectar Interacciones del Usuario
 Para manejar las interacciones del usuario, como la presión de un botón, se utilizan los controladores de eventos.
 
-Organización del Código
+## Organización del Código
 Mantener el código organizado es crucial para la mantenibilidad y escalabilidad de la aplicación. Aquí algunos consejos:
 
 Separar Widgets: Crea archivos separados para widgets que tengan funcionalidades específicas.
 Utilizar Carpetas: Organiza tu código en carpetas como widgets, models, screens, etc.
 Nombrado Consistente: Usa nombres descriptivos y consistentes para tus archivos y clases.
 
-App Responsiva
+## App Responsiva
 Para hacer que tu app sea responsiva y se vea bien en diferentes tamaños de pantalla, utiliza widgets como Expanded, Flexible y MediaQuery.
 
-Aspecto y Experiencia Coherentes
+## Aspecto y Experiencia Coherentes
 Para asegurar una apariencia y experiencia de usuario coherentes, utiliza temas globales y estilos consistentes.
 
+##Como empezar
 Para comenzar con este proyecto, sigue estos pasos:
 
  1: Clona el repositorio:
@@ -54,7 +55,7 @@ Para comenzar con este proyecto, sigue estos pasos:
    
  4: Correr la aplicacion:
    flutter run
-
+## Contribuciones
    Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
 
    
