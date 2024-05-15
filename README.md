@@ -11,10 +11,9 @@ Este es un proyecto de práctica de Flutter diseñado para aprender y aplicar co
 - [Organización del Código](#organización-del-código)
 - [App Responsiva](#app-responsiva)
 - [Aspecto y Experiencia Coherentes](#aspecto-y-experiencia-coherentes)
-- [Mejoras Futuras](#mejoras-futuras)
 - [Cómo Empezar](#cómo-empezar)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## Conceptos Básicos de Flutter
 
